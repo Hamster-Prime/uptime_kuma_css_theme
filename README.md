@@ -29,6 +29,9 @@
 
 ![暗色模式](./screenshots/dark.png)
 
+### 奇数卡片样式
+<img width="981" height="338" alt="image" src="https://github.com/user-attachments/assets/466c49ac-8aaf-4837-8f57-4812356330bb" />
+
 ---
 
 ## 🚀 使用方法
